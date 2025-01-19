@@ -25,10 +25,7 @@ Feel free to reach out to me: disha84disha@gmail.com
 [![Tableau Icon](https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000)](https://www.tableau.com)
 [![Power BI](https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 <a href="https://www.excel.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/417/369/png-transparent-microsoft-excel-logo-microsoft-word-microsoft-office-365-pivot-table-excel-office-xlsx-icon-microsoft-excel-logo-miscellaneous-template-angle-thumbnail.png" alt="excel" width="60" height="60"/> </a>
-
-
-
-<a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="60" height="60"/> </a>
+</p>
 
 
 <!--
